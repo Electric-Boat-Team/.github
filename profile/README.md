@@ -1,22 +1,25 @@
 # Electric Boat Team
 
-We build software together. This org holds our shared code, mostly in the
-[`monorepo`](https://github.com/Electric-Boat-Team/monorepo).
+We're a team building software together. All of our code lives in one shared
+place: the [monorepo](https://github.com/Electric-Boat-Team/monorepo).
 
 ## How we work
 
-- All changes land via pull request. `main` is protected: no direct pushes,
-  and every PR needs an approval from someone other than the author.
-- Only squash and rebase merges are allowed — no merge commits.
-- Issues use our templates: bug reports and feature requests.
+- **Everything gets reviewed.** No code goes into the main project unless
+  someone else has looked at it first. It's how we keep mistakes from
+  slipping in.
+- **We keep the history clean.** The project's history stays readable,
+  on purpose.
+- **Found a bug or want something new?** Open an issue and use the template —
+  it tells you exactly what to fill in.
 
 ## Repos
 
-- [`monorepo`](https://github.com/Electric-Boat-Team/monorepo) — the main
-  codebase. Shared packages live under `packages/`.
+- **monorepo** — our main codebase. All the work happens here.
 
 ## Getting started
 
 1. Ask an owner to add you to the org.
-2. Clone the monorepo: `git clone https://github.com/Electric-Boat-Team/monorepo.git`
-3. Create a branch, make your change, open a PR, get a review, merge.
+2. Questions? Ask in Slack.
+3. Clone the repo, make your change, open a pull request, get a review,
+   and you're in.
