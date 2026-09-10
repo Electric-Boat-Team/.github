@@ -19,7 +19,5 @@ place: the [monorepo](https://github.com/Electric-Boat-Team/monorepo).
 
 ## Getting started
 
-1. Ask an owner to add you to the org.
+1. Ask in slack to be added to the org.
 2. Questions? Ask in Slack.
-3. Clone the repo, make your change, open a pull request, get a review,
-   and you're in.
